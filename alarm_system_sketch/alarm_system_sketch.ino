@@ -40,7 +40,7 @@ void setup() {
 //set pinModes for RGB
 //pinMode(RED_PIN, OUTPUT);
 //pinMode(BLUE_PIN, OUTPUT);
-//pinMode(GREEN_PIN, OUTPUT);
+//pinMode(GREEN_PIN, OUTPUT); 
 
 //set IR Remote
 Serial.begin(19200); // Open serial monitor at 115200 baud to see ping results. 
